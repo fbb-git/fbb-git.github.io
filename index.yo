@@ -1,0 +1,30 @@
+mailto(f.b.brokken@rug.nl)
+
+affiliation(Center for Information Technology, University of Groningen)
+
+notableofcontents()
+
+htmlstyle(.centered)(margin:0px auto;display:block)
+htmlstyle(body)(color: #27408B; background: #FFFAF0)
+
+report(GitHub Main Project Page)
+      (Frank B. Brokken (f.b.brokken@rug.nl)nl())
+      (2015)
+
+htmlcommand(
+   <img class="centered", src="frank.jpg" border="0" alt="Frank B. Brokken" />
+)
+
+nsect(Overview of my projects on GitHub)
+
+includefile(/home/frank/git/GITPROJECTS.yo)
+
+
+Contact me through url(my e-mail address)(mailto:f.b.brokken@rug.nl)
+
+
+
+
+
+
+
